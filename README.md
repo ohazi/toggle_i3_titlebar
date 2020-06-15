@@ -1,5 +1,12 @@
 # toggle_i3_titlebar
 
+## Deprecation Notice
+Use [oi3h](https://github.com/ohazi/oi3h/) instead. Specifically, you can use:
+```
+$ oi3h border -t 'normal 2' 'pixel 2'
+```
+or something similar to achieve equivalent functionality.
+
 ## What does this do?
 
 This program toggles titlebar visibility for the currently focused window in i3. 
